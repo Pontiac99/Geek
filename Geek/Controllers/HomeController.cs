@@ -10,6 +10,12 @@ namespace Geek.Controllers
     {
         public ActionResult Index()
         {
+            ViewBag.message = "Sample changes";
+            //Aj changes
+            //done
+
+
+
             return View();
         }
 
