@@ -13,7 +13,7 @@ namespace Geek.Controllers
             ViewBag.message = "Sample changes";
             //Aj changes
             //done
-
+            string aa = "okok";
 
 
             return View();
